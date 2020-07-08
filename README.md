@@ -1,5 +1,7 @@
 # NGSimulator
 
+NGSimulator is a tool to benchmark variant callers. It generates reads simulating sequencing errors such as insertion, deletion, and substitution. Users can define the position, type and length of variant.  
+
 ### Usage:
 ```
 python ngsimulator.py
