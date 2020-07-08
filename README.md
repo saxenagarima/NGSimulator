@@ -1,13 +1,13 @@
 # NGSimulator
 
-Usage:
+### Usage:
 python ngsimulator.py
 
-Input:
+### Input:
 ngsimulator takes two input files:
 
-Reference genome to be sequenced in fasta format
-A tsv file with following column:
+1) Reference genome to be sequenced in fasta format
+2) A tsv file with following column:
 
 Col1- Type of Varaiant (Str-"SNP,Ins,Del")
 
@@ -19,7 +19,7 @@ Col4- Length of the Variant (Int)
 
 Col5- Allele (optional)
 
-Output:
+### Output:
 ngsimulator makes two output files:
 
 Simulated reads in fastq format
