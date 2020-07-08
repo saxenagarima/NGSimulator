@@ -1,7 +1,9 @@
 # NGSimulator
 
 ### Usage:
+```
 python ngsimulator.py
+```
 
 ### Input:
 ngsimulator takes two input files:
