@@ -1,10 +1,10 @@
 # NGSimulator
 
 Usage:
-python simseq.py
+python ngsimulator.py
 
 Input:
-Simseq takes two input files:
+ngsimulator takes two input files:
 
 Reference genome to be sequenced in fasta format
 A tsv file with following column:
@@ -15,7 +15,7 @@ Col4- Length of the Variant (Int)
 Col5- Allele (optional)
 
 Output:
-Simseq makes two output files:
+ngsimulator makes two output files:
 
 Simulated reads in fastq format
 A text file with variant information
